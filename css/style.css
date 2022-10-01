@@ -7,3 +7,30 @@ body {
 #barraMenu {
     background-color: #2f2c58 !important;
 }
+
+
+
+p.trucar-3l {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.text-botoes {
+    color: #2f2c58 !important;
+}
+
+.btn {
+    background-color: #fff047 !important;
+    border: none;
+    color: #2f2c58 !important;
+}
+
+.paginacao {
+    color: #fc31a4 !important;
+}
+
+
+    
